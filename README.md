@@ -7,7 +7,7 @@ This repository contains Task 1 of creating the Personal Professional Portfolio 
 # Files Included
 index.html
 style.css
-script.js
+portfolio.js
 
 # Author
 Rakshita Patil
